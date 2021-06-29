@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/font.spritefont</File>
+    <File>C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/sprites/buttons.png</File>
+    <File>C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/sprites/mask.png</File>
+    <File>C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/sprites/spritepack.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

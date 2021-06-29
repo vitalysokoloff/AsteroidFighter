@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/font.spritefont","C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/bin/Android/font.xnb","FontDescriptionProcessor","SpriteFontContent",2015,136209,0,3260186
+"C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/sprites/buttons.png","C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/bin/Android/sprites/buttons.xnb","TextureProcessor","Texture2DContent",267930,5982565,0,2390137
+"C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/sprites/mask.png","C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/bin/Android/sprites/mask.xnb","TextureProcessor","Texture2DContent",51892,6061465,0,2020115
+"C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/sprites/spritepack.png","C:/Users/qwertywinner/source/repos/AsteroidFighter/AsteroidFighter/Content/bin/Android/sprites/spritepack.xnb","TextureProcessor","Texture2DContent",195794,1056613,0,0460026
